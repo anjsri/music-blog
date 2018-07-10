@@ -1,0 +1,35 @@
+h2 {
+    font-family: courier;
+    margin-left: 10px
+
+}
+h3 {
+    font-family: courier;
+    margin-left: 10px
+
+}
+h4 {
+    font-family: courier;
+    margin: 10px;
+}
+.container {
+    font-family: American Typewriter;
+    margin: 20px;
+
+}
+
+#popSection {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px;
+}
+#rapSection {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px;
+}
+#links {
+    font-family: courier;
+    margin: 20px;
+    /* font-size: 15px */
+}
